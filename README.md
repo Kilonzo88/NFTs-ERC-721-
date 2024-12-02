@@ -1,4 +1,10 @@
 # NFT Smart Contract Project - Pug NFT and Mood-Changing SVG NFT
+![image](https://github.com/user-attachments/assets/3a36a6f5-21f0-42cf-99f8-cd70a91e47c2)
+![image](https://github.com/user-attachments/assets/87f5f1c1-a6bf-4a2a-a75e-ac488f698bba)
+![image](https://github.com/user-attachments/assets/24b5c71c-8978-4d95-8c71-4c6f11c1ab42)
+
+
+
 
 ## Overview
 This repository contains two NFT smart contracts:
